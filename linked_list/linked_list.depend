@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1472408948 source:c:\users\annelise\desktop\linked_list\dllist.cpp
+	<iostream>
+	"DLList.h"
+
+1472409056 c:\users\annelise\desktop\linked_list\dllist.h
+	"Node.h"
+
+1472405082 c:\users\annelise\desktop\linked_list\node.cpp
+	<iostream>
+	"Node.h"
+
+1472404396 c:\users\annelise\desktop\linked_list\node.h
+
+1472408398 source:c:\users\annelise\desktop\linked_list\main.cpp
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+
+1472408412 source:c:\users\annelise\desktop\linked_list\queue.cpp
+	<iostream>
+	"Queue.h"
+
+1472408991 c:\users\annelise\desktop\linked_list\queue.h
+	"DLList.h"
+
+1472401899 c:\users\annelise\desktop\linked_list\dllist.cpp
+	<iostream>
+	"DLList.h"
+
+1472408490 source:c:\users\annelise\desktop\linked_list\stack.cpp
+	<iostream>
+	"Stack.h"
+
+1472409020 c:\users\annelise\desktop\linked_list\stack.h
+	"DLList.h"
+
+1472405082 source:c:\users\annelise\desktop\linked_list\node.cpp
+	<iostream>
+	"Node.h"
+
+1472402477 source:c:\users\annelise\desktop\linked_list\listtest.cpp
+	<iostream>
+	<string>
+	"DLList.cpp"
+
+1472401935 source:c:\users\annelise\desktop\linked_list\lltesting.cpp
+	<iostream>
+	<string>
+	"DLList.cpp"
+
+1472401899 source:c:\users\annelise\desktop\listcode\dllist.cpp
+	<iostream>
+	"DLList.h"
+
+1472013357 c:\users\annelise\desktop\listcode\dllist.h
+	"Node.cpp"
+
+1472404396 c:\users\annelise\desktop\listcode\node.cpp
+	<iostream>
+	"Node.h"
+
+1472402477 source:c:\users\annelise\desktop\listcode\listtest.cpp
+	<iostream>
+	<string>
+	"DLList.cpp"
+
+1472401899 c:\users\annelise\desktop\listcode\dllist.cpp
+	<iostream>
+	"DLList.h"
+
+1472401935 source:c:\users\annelise\desktop\listcode\lltesting.cpp
+	<iostream>
+	<string>
+	"DLList.cpp"
+
+1472402240 source:c:\users\annelise\desktop\listcode\queue.cpp
+	<iostream>
+	"Queue.h"
+
+1472402249 c:\users\annelise\desktop\listcode\queue.h
+	"DLList.cpp"
+
+1472402322 source:c:\users\annelise\desktop\listcode\stack.cpp
+	<iostream>
+	"Stack.h"
+
+1472402303 c:\users\annelise\desktop\listcode\stack.h
+	"DLList.cpp"
+
+1472404396 c:\users\annelise\desktop\listcode\node.h
+
+1472404771 c:\users\annelise\desktop\linked_list\stack.cpp
+	<iostream>
+	"Stack.h"
+
